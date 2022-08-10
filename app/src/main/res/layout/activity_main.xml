@@ -27,8 +27,9 @@
         android:text="ITALY"
         android:textColor="@color/white"
         android:textSize="16sp"
-        android:layout_marginStart="10dp"
-        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/raleway_regular"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
         app:layout_constraintBottom_toTopOf="@id/city"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -43,8 +44,9 @@
         android:text="ROME"
         android:textColor="@color/white"
         android:textSize="48sp"
-        android:layout_marginStart="10dp"
-        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/raleway_medium"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
         app:layout_constraintBottom_toTopOf="@+id/description"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -58,8 +60,9 @@
         android:text="IS A HISTORICAL POWERHOUSE"
         android:textColor="@color/white"
         android:textSize="14sp"
-        android:layout_marginStart="10dp"
-        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/raleway_semi_bold"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
         app:layout_constraintBottom_toBottomOf="@+id/ImageView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -72,6 +75,7 @@
         android:text="LOCAL TIME"
         android:textColor="@color/white"
         android:textSize="12sp"
+        android:fontFamily="@font/roboto_medium"
         app:layout_constraintBottom_toTopOf="@+id/time"
         app:layout_constraintStart_toStartOf="@+id/time" />
 
@@ -82,6 +86,7 @@
         android:text="10:23 AM"
         android:textColor="@color/white"
         android:textSize="36sp"
+        android:fontFamily="@font/roboto_regular"
         app:layout_constraintBottom_toTopOf="@+id/date"
         app:layout_constraintStart_toStartOf="@+id/date" />
 
@@ -94,6 +99,7 @@
         android:text="12/09/2019"
         android:textColor="@color/white"
         android:textSize="14sp"
+        android:fontFamily="@font/roboto_light"
         app:layout_constraintBottom_toBottomOf="@+id/ImageView"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -104,6 +110,7 @@
         android:text="TODAY"
         android:textColor="@color/white"
         android:textSize="12sp"
+        android:fontFamily="@font/roboto_medium"
         app:layout_constraintBottom_toTopOf="@id/degree"
         app:layout_constraintEnd_toEndOf="@id/degree" />
 
@@ -114,6 +121,7 @@
         android:text="-2°C"
         android:textColor="@color/white"
         android:textSize="36sp"
+        android:fontFamily="@font/roboto_regular"
         app:layout_constraintBottom_toTopOf="@id/stateWeather"
         app:layout_constraintEnd_toEndOf="@id/stateWeather" />
 
@@ -127,6 +135,7 @@
         android:text="Scattered clouds"
         android:textColor="@color/white"
         android:textSize="14sp"
+        android:fontFamily="@font/roboto_light"
         app:layout_constraintBottom_toBottomOf="@+id/ImageView"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -140,6 +149,7 @@
         android:text="Attractions"
         android:textColor="@color/black"
         android:textSize="14sp"
+        android:fontFamily="@font/raleway_semi_bold"
         android:textAppearance="?attr/textAppearanceHeadline3"
         app:icon="@drawable/ic_map_pin"
         app:iconGravity="textTop"
@@ -169,6 +179,7 @@
         android:text="Need to know"
         android:textColor="@color/black"
         android:textSize="14sp"
+        android:fontFamily="@font/raleway_semi_bold"
         android:textAppearance="?attr/textAppearanceHeadline3"
         app:icon="@drawable/ic_need_to_know"
         app:iconGravity="textTop"
@@ -199,6 +210,7 @@
         android:text="More"
         android:textColor="@color/black"
         android:textSize="14sp"
+        android:fontFamily="@font/raleway_semi_bold"
         android:textAppearance="?attr/textAppearanceHeadline3"
         app:icon="@drawable/ic_more"
         app:iconGravity="textTop"
