@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/projects/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
         <entry key="..\:/projects/app/src/main/res/drawable/ic_menu.xml" value="0.2985" />
+        <entry key="..\:/projects/app/src/main/res/drawable/login_bg.xml" value="0.248" />
         <entry key="..\:/projects/app/src/main/res/font/raleway.xml" value="0.396875" />
         <entry key="..\:/projects/app/src/main/res/font/raleway_dots.xml" value="0.396875" />
         <entry key="..\:/projects/app/src/main/res/font/raleway_medium.xml" value="0.10648148148148148" />
@@ -13,7 +14,8 @@
         <entry key="..\:/projects/app/src/main/res/font/roboto_light.xml" value="0.10648148148148148" />
         <entry key="..\:/projects/app/src/main/res/font/roboto_medium.xml" value="0.10648148148148148" />
         <entry key="..\:/projects/app/src/main/res/font/roboto_regular.xml" value="0.10648148148148148" />
-        <entry key="..\:/projects/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/projects/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/projects/app/src/main/res/layout/cinnabon.xml" value="0.33" />
       </map>
     </option>
   </component>

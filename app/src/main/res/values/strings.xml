@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="cinnabon">cinnabon</string>
+    <string name="login_shape">login_shape</string>
+    <string name="background">background</string>
+    <string name="sign_in_button">sign_in_button</string>
+    <string name="please_sign_in">Please Sign In</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
 </resources>
